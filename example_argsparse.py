@@ -19,12 +19,12 @@ Examples
 --------
 Windows:
     -i input_file.txt
-    --input_path c:\users\username\desktop\ 
-    -o output_file.txt
-    --output_file output_file.txt
+    --input-path c:\users\username\desktop\ 
+    or
+    --input-path c:/users/username/desktop/
 Linux:
-    --input_path /home/username/
-    --ouput_path /home/username
+    -i input_file.txt
+    --input-path /home/username/
 """
 
 
